@@ -7,7 +7,6 @@ Google's Tensorflow provides an introduction which dives into ML and TF together
 
 ## Cheatsheet
 
-* cheatsheets/tensorflow_cheatsheet_1.png
 * Linear regression: single feature, single scalar outcome
 * Linear regression: multi-feature, single scalar outcome
 * Logistic regression: multi-feature, multi-class outcome
